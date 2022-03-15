@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include "main.h"
+
+int main (void)
+{
+  putch();
+  return 0;
+}
+char *putch(void)
+{
+  return "_putchar\n";
+}
