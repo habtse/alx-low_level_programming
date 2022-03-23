@@ -9,9 +9,9 @@ void print_numbers(void)
 {
 	for (int i = 48; i < 58; i++)
 	{
-		printf("%c", i);
+		_putchar("%c", i);
 	}
 
-	printf(\n);
+	_putchar(\n);
 }
 
