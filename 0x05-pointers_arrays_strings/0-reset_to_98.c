@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 - change to t98
- * @c: int poiner
+ * @n: int poiner
  * Return: 98
  */
 void reset_to_98(int *n)
