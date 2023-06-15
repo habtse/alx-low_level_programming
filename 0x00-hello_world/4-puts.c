@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main: prints file
  * return:  0
