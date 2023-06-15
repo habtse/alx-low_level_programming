@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main: prints file
- * return:  0
+ * Description: prints file
+ * Return:  0 if success
  */
 int main (void)
 {
