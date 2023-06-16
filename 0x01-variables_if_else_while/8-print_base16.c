@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints base 16 
+ * main - print alphabet with reverse order
  * Return: 0 if success
 */
 int main(void)
