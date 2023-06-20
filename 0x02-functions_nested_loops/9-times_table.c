@@ -19,7 +19,8 @@ _putchar(k + '0');
 break;
 }
 _putchar(',');
-_putchar('  ');
+_putchar(' ');
+_putchar(' ');
 }
 }
 }
