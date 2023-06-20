@@ -12,7 +12,7 @@ int i;
 i = n % 10;
 if (n < 0)
 {
-i = 10 - i;
+i = 10 + i;
 }
 _putchar(i + '0');
 return (i);
