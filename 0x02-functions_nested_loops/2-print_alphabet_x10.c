@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * print_alphabet - prints all alphabets in order
+ * print_alphabet_x10 - prints all alphabets in order
  * Return: void
 */
 void print_alphabet_x10(void)
