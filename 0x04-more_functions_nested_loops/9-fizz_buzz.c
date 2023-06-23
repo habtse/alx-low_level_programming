@@ -5,7 +5,7 @@
 */
 void fizz_buzz(void)
 {
-    int x;
+    int x;printf(" ");
 
     for (x = 1; x <=100; x++)
     {
@@ -26,7 +26,7 @@ void fizz_buzz(void)
         }
         else 
         {
-            printf(x);
+            printf("%d",x);
             printf(" ");
         }
 
